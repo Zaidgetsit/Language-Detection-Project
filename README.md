@@ -1,7 +1,15 @@
 # Language-Detection-Project
-This repository contains machine learning model designed to accurately detect the language of a given text. Built using Python and popular libraries like scikit-learn and nltk.
+- Developed a language detection system using a Bag of words model
+- Label encoded the dependent variable 
+- Used text cleaning libraries like 're' to remove unnecessary punctuations and symbols
+- Implemented text vectorisation techniques to convert text into numerical data
+- Built an trained a Multinomial Naive Bayes moel
+- Achieved an accuracy score of 0.97
 
 # Technologies Used 
-Python 
-scikit-learn
-NLTK
+- Python 
+- scikit-learn
+- NLTK
+
+## Classifier
+- Multinomial Naive Bayes
